@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-Enthusiastic Engineering student eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of programming and its applications. Motivated to learn, grow and excel in computer science. 
+I'm a enthusiastic Engineering student eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of programming and its applications. Motivated to learn, grow and excel in computer science. 
 
 - 🔭 I’m currently working on Machine Learning.
 - 🌱 I’m currently learning Android Development.

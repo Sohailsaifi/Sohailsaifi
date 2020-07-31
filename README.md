@@ -17,7 +17,7 @@ I'm a enthusiastic Engineering student eager to contribute to team success throu
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -25,3 +25,8 @@ I'm a enthusiastic Engineering student eager to contribute to team success throu
 
 ---
 <img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sohailsaifi&show_icons=true&hide_border=true" />
+
+[website]: https://www.sohailsaifi.live/
+[twitter]: https://twitter.com/SohailS75776836
+
+[instagram]: https://instagram.com/sohail_saifii

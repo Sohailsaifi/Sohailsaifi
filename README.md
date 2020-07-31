@@ -16,15 +16,15 @@ I'm a enthusiastic Engineering student eager to contribute to team success throu
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ---
-<img align="left" alt="RohanDas28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sohailsaifi&show_icons=true&hide_border=true" />
+<img align="left" alt="Sohailsaifi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sohailsaifi&show_icons=true&hide_border=true" />
 
 [website]: https://www.sohailsaifi.live/
 [twitter]: https://twitter.com/SohailS75776836

@@ -28,7 +28,7 @@ I'm a enthusiastic Engineering student eager to contribute to team success throu
 
 ### My Most used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohailsaifi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohailsaifi&show_icons=true)
 
 [website]: https://www.sohailsaifi.live/
 [twitter]: https://twitter.com/SohailS75776836
